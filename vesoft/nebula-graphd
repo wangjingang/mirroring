@@ -1,0 +1,1 @@
+FROM vesoft/nebula-graphd:nightly
